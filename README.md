@@ -1,4 +1,3 @@
 # Book-your-Books-Phase-1-ahoss1
- 
-![alt text](https://github.com/muntasir-hossain314159/Book-your-Books-Phase-1-ahoss1/main/Screenshots/Home Page.png?raw=true)
 
+<img src = "./Screenshots/Home Page.png>
