@@ -3,11 +3,11 @@
 ## Home Page
 <img src = "./Screenshots/Home Page.PNG">
 
-## Search Page
-<img src = "./Screenshots/Search.PNG">
-
 ## Sign In Page
 <img src = "./Screenshots/Sign In.PNG">
+
+## Search Page
+<img src = "./Screenshots/Search.PNG">
 
 ## Footer
 <img src = "./Screenshots/Footer.PNG">
