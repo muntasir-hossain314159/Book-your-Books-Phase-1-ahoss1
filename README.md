@@ -20,7 +20,6 @@ In Phase - 1, I have designed and created the home page (header and footer), sig
 
 Name: Muntasir Hossain <br>
 Contact: ahoss1@unh.newhaven.edu
-
 Computer Science junior majoring at the University of New Haven
 
 
