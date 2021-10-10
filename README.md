@@ -1,4 +1,4 @@
-# Book your Books: Phase-1
+# Book your Books: Phase - 1
 
 "Book your Books" is a website that is being developed for students at the University of New Haven. Students will upload their used course books on the platform and current students who are enrolled in that particular course would be able to buy them. The website serves as a Client to Client communication platform where the buyer's information would be transferred to the seller, who would then communicate with the buyer directly. <br>
 
