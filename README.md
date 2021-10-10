@@ -18,9 +18,9 @@ In Phase - 1, I have designed and created the home page (header and footer), sig
 
 ## Developer Information
 
-Name: Muntasir Hossain
+Name: Muntasir Hossain <br>
 Contact: ahoss1@unh.newhaven.edu
 
-Computer Science Junior at the University of New Haven
+Computer Science junior majoring at the University of New Haven
 
 
