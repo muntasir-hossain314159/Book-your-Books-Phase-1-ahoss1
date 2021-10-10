@@ -16,3 +16,11 @@ In Phase - 1, I have designed and created the home page (header and footer), sig
 ## Footer
 <img src = "./Screenshots/Footer.PNG">
 
+## Developer Information
+
+Name: Muntasir Hossain
+Contact: ahoss1@unh.newhaven.edu
+
+Computer Science Junior at the University of New Haven
+
+
