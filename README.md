@@ -1,5 +1,7 @@
 # Book-your-Books-Phase-1-ahoss1
 
+Book your Books is a website developed for students at University
+
 ## Home Page
 <img src = "./Screenshots/Home Page.PNG">
 
